@@ -36,6 +36,7 @@
 * [KA Engineering (Khan Academy)](http://engineering.khanacademy.org/)
 * [REA Group Tech Blog](http://rea.tech/)
 * [Blendle Engineering](https://blendle.engineering/)
+* [NVIDIA Developer Blog](https://devblogs.nvidia.com/)
 
 # Other Languages
 
